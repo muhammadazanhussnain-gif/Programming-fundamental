@@ -1,0 +1,3 @@
+Laptop,Good Quality,100000,90
+Bag,Good Stiching,2000,10
+Mobile,Samsung Company,50000,48

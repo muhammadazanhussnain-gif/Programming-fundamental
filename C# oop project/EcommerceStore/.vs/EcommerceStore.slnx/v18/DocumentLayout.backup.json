@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\ecommercestore\\customer folder\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\customer folder\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\ecommercestore\\customer folder\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\customer folder\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\ecommercestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\ecommercestore\\product\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\product\\productui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\ecommercestore\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\ecommercestore\\product\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\product\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\ecommercestore\\product\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\product\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\ecommercestore\\order detail\\orderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\order detail\\orderui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|c:\\users\\hh traders\\desktop\\oop preparation\\ecommercestore\\ecommercestore\\order detail\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\order detail\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|c:\\users\\hh traders\\desktop\\oop preparation\\ecommercestore\\ecommercestore\\order detail\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\order detail\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|c:\\users\\hh traders\\desktop\\oop preparation\\ecommercestore\\ecommercestore\\order detail\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\order detail\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|c:\\users\\hh traders\\desktop\\oop preparation\\ecommercestore\\ecommercestore\\main menu\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\main menu\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|c:\\users\\hh traders\\desktop\\oop preparation\\ecommercestore\\ecommercestore\\customer folder\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\customer folder\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\ecommercestore\\customer folder\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C64235-7D35-4A13-91CB-5A47FE80AD81}|EcommerceStore\\EcommerceStore.csproj|solutionrelative:ecommercestore\\customer folder\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HH Traders\\Desktop\\oop preparation\\RESTURANTAPP\\RESTURANTAPP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Menu\\mainMenuUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceStore\\Menu\\mainMenuUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order\\OrderRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceStore\\Order\\OrderRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Customer\\CustomerRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceStore\\Customer\\CustomerRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceStore\\Order\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Product\\ProductModel.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Product\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Product\\ProductModel.cs",
+              "RelativeToolTip": "EcommerceStore\\Product\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:48:38.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Product\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Product\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Product\\ProductRepo.cs",
+              "RelativeToolTip": "EcommerceStore\\Product\\ProductRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:48:47.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Product\\ProductService.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Product\\ProductService.cs",
+              "RelativeToolTip": "EcommerceStore\\Product\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:48:57.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductUI.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Product\\ProductUI.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Product\\ProductUI.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Product\\ProductUI.cs",
+              "RelativeToolTip": "EcommerceStore\\Product\\ProductUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:49:07.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Program.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Program.cs",
+              "RelativeToolTip": "EcommerceStore\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwJkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:44:00.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Customer folder\\CustomerService.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Customer folder\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Customer folder\\CustomerService.cs",
+              "RelativeToolTip": "EcommerceStore\\Customer folder\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:46:06.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerUI.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Customer folder\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Customer folder\\CustomerUI.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Customer folder\\CustomerUI.cs",
+              "RelativeToolTip": "EcommerceStore\\Customer folder\\CustomerUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:46:15.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderUI.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order detail\\OrderUI.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Order detail\\OrderUI.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order detail\\OrderUI.cs",
+              "RelativeToolTip": "EcommerceStore\\Order detail\\OrderUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:51:35.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order detail\\OrderService.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Order detail\\OrderService.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order detail\\OrderService.cs",
+              "RelativeToolTip": "EcommerceStore\\Order detail\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T10:35:48.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order detail\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Order detail\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order detail\\OrderRepo.cs",
+              "RelativeToolTip": "EcommerceStore\\Order detail\\OrderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T10:44:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mainMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Main Menu\\mainMenuUI.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Main Menu\\mainMenuUI.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Main Menu\\mainMenuUI.cs",
+              "RelativeToolTip": "EcommerceStore\\Main Menu\\mainMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T09:44:15.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Customer folder\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Customer folder\\CustomerRepo.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Customer folder\\CustomerRepo.cs",
+              "RelativeToolTip": "EcommerceStore\\Customer folder\\CustomerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T10:43:49.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order detail\\OrderModel.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Order detail\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order detail\\OrderModel.cs",
+              "RelativeToolTip": "EcommerceStore\\Order detail\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:51:06.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Customer folder\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Customer folder\\CustomerModel.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Customer folder\\CustomerModel.cs",
+              "RelativeToolTip": "EcommerceStore\\Customer folder\\CustomerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:45:49.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Order\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order\\OrderRepo.cs",
+              "RelativeToolTip": "EcommerceStore\\Order\\OrderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:51:17.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "mainMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Menu\\mainMenuUI.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Menu\\mainMenuUI.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Menu\\mainMenuUI.cs",
+              "RelativeToolTip": "EcommerceStore\\Menu\\mainMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:53:26.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Customer\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Customer\\CustomerRepo.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Customer\\CustomerRepo.cs",
+              "RelativeToolTip": "EcommerceStore\\Customer\\CustomerRepo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:45:57.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\RESTURANTAPP\\RESTURANTAPP\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RESTURANTAPP\\RESTURANTAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\RESTURANTAPP\\RESTURANTAPP\\Program.cs",
+              "RelativeToolTip": "..\\RESTURANTAPP\\RESTURANTAPP\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:56:57.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order\\OrderService.cs",
+              "RelativeDocumentMoniker": "EcommerceStore\\Order\\OrderService.cs",
+              "ToolTip": "C:\\Users\\HH Traders\\Desktop\\oop preparation\\EcommerceStore\\EcommerceStore\\Order\\OrderService.cs",
+              "RelativeToolTip": "EcommerceStore\\Order\\OrderService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:51:26.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

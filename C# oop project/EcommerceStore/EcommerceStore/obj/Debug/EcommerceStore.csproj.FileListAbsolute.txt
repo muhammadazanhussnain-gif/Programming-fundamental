@@ -1,0 +1,7 @@
+C:\Users\HH Traders\Desktop\oop preparation\EcommerceStore\EcommerceStore\bin\Debug\EcommerceStore.exe.config
+C:\Users\HH Traders\Desktop\oop preparation\EcommerceStore\EcommerceStore\bin\Debug\EcommerceStore.exe
+C:\Users\HH Traders\Desktop\oop preparation\EcommerceStore\EcommerceStore\bin\Debug\EcommerceStore.pdb
+C:\Users\HH Traders\Desktop\oop preparation\EcommerceStore\EcommerceStore\obj\Debug\EcommerceStore.csproj.AssemblyReference.cache
+C:\Users\HH Traders\Desktop\oop preparation\EcommerceStore\EcommerceStore\obj\Debug\EcommerceStore.csproj.CoreCompileInputs.cache
+C:\Users\HH Traders\Desktop\oop preparation\EcommerceStore\EcommerceStore\obj\Debug\EcommerceStore.exe
+C:\Users\HH Traders\Desktop\oop preparation\EcommerceStore\EcommerceStore\obj\Debug\EcommerceStore.pdb
