@@ -2,6 +2,7 @@ using GameProject.Models;
 using GameProject.Repositories;
 using System;
 using System.Collections.Generic;
+using System.Xml.Schema;
 
 namespace GameProject.Services
 {
@@ -49,8 +50,10 @@ namespace GameProject.Services
 
         public int CalculateVictoryBonus(Player player)
         {
+            int bonus;
+            bonus = player.Health + (player.HealingPotions * 10);
+            return bonus;
 
-            return 0;
         }
 
         public void SaveResult(Player player, bool won)
@@ -71,9 +74,71 @@ namespace GameProject.Services
             // 4. Return only the requested number of results.
             // 5. Do not fail when the file contains fewer results than requested.
             // 6. Use nested loops to compare items, and use a temporary variable when swapping two items.
-
             // Fallback: the project stays runnable until students implement sorting.
-            return _repository.GetAll();
+            _repository.GetAll();
+
+
+
+
+
+
+            int largest = 5;
+           
+            List<GameResult> sortResult = _repository.GetAll();
+            foreach (GameResult result in sortResult)
+            {
+                foreach (GameResult result2 in sortResult)
+                {
+
+                    if (result.Score > result2.Score)
+                    {
+                        int temp = 0;
+                        temp = result2.Score;
+                       result2.Score = result.Score;
+                        result.Score = temp;
+                    }
+                }
+
+            }
+
+       
+
+            foreach (GameResult score in sortResult)
+            {
+                foreach (GameResult score2 in sortResult) {
+
+                    if (score.Score > score.Score)
+                    {
+                        int temp = 0;
+                        temp = score2.Score;
+                        score2.Score = score.Score;
+                        score.Score = temp;
+                    }
+                }
+
+            }
+
+
+            foreach (GameResult name in sortResult)
+            {
+                foreach (GameResult name2 in sortResult)
+                {
+
+                    if ( name.Score > name2.Score)
+                    {
+                        int temp;
+                        temp = name2.Score;
+                        name2.Score = name.Score;
+                        name.Score = temp;
+                    }
+                }
+
+            }
+
+
+
+            return sortResult;
+            }
         }
     }
-}
+
